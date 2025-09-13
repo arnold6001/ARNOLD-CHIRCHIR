@@ -1,8 +1,8 @@
-# 🌌JUNE MD
+# 🌌 ARNOLD-JW
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=JUNE-MD;Multi+Device+Whatsapp+Bot;Made+By+Supreme" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=ARNOLD-JW;Multi+Device+Whatsapp+Bot;Made+By+Arnold Chirchir" alt="Typing SVG" />
   </a> 
 </div> 
 
@@ -19,7 +19,7 @@
 > 1:  **Fork the Repository**
 
 _Click the button below to fork  June Md repository to your GitHub account_
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tap+fork+button+Bellow+To+Fork;June+MD+REPO+On+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tap+fork+button+Bellow+To+Fork; ARNOLD+CHIRCHIR+REPO+On+Github)](https://git.io/typing-svg)
 <div align="left">
   <a href="https://github.com/vinpink2/June-md/fork">
     <img src="https://img.shields.io/badge/Fork%20Bot%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
@@ -54,10 +54,7 @@ _Download Bot Zip file From the button Bellow_
 </p>
 
 
-> 4:  **Deploy Now**
 
-_For further setup & guidance, click the button below🩹_
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Watch+The+Deployment+Tutorials;Bellow+For+FreePanel+Deployments)](https://git.io/typing-svg)
 
 > **Deploy Now on heroku**
 
@@ -110,21 +107,12 @@ _For further setup & guidance, click the button below🩹_
 
 >  **Deploy On katabump panel**
 
-<div align="left">
-  <a href ="https://youtu.be/1EkXurm-_BM?si=iNbOm1hv2_r8FHNE">
-    <img src ="https://img.shields.io/badge/TUTORIAL-dc3545?style=for-the-badge&logo=youtube" alt ="YouTube Link"/>
-<a href="https://dashboard.katabump.com/auth/login#adc462" target="_blank"><br>
-  <img src="https://img.shields.io/badge/Katabump panel-D6B7D6?style=for-the-badge&logo=server&logoColor=lightblue" alt="KATABUMP"/>
-</a>
-</div>
+
 
 >  **JOIN US**
-<div align="left">
-  <a href="https://t.me/cypherx_support">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="Join Telegram"/>
-  </a>
+
 <br>
-  <a href="https://chat.whatsapp.com/LYMEdDXJNkPDQ5tdTVyh5I?mode=ac_t">
+  <a href="https://chat.whatsapp.com/DAwDS6hz3b14eCRkM7Cecj?mode=ems_copy_c">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=darkgreen" alt="WHATSAPP"/>
   </a>
 </div>
