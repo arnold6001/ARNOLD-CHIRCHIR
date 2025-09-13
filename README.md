@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <a href=""> 
-    <img src="https://files.catbox.moe/7ibt7j.jpg" alt="JUNE MD" height="300"> 
+    <img src="https://files.catbox.moe/7ibt7j.jpg" alt="ARNOLD JW" height="300"> 
   </a> 
 </div>
 
@@ -18,7 +18,7 @@
 
 > 1:  **Fork the Repository**
 
-_Click the button below to fork  June Md repository to your GitHub account_
+_Click the button below to fork  ARNOLD JW repository to your GitHub account_
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tap+fork+button+Bellow+To+Fork; ARNOLD+CHIRCHIR+REPO+On+Github)](https://git.io/typing-svg)
 <div align="left">
   <a href="https://github.com/vinpink2/June-md/fork">
